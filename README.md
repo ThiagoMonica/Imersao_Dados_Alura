@@ -1,2 +1,2 @@
-# Imersao_Dados_Alura
-Pequeno curso de ciência de dados realizado pela Alura no qual pude desenvolver projetos e cumprir desafios envolvendo a área de dados e biologia
+# Imersao de Dados - Alura 2021
+Repositório de projetos e desafios desenvolvidos ao longo das aulas
